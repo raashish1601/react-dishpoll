@@ -1,0 +1,14 @@
+.dishes-container .card {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+  padding: 0;
+}
+
+.dishes-container .card-title {
+  font-size: 18px;
+}
+
+.dishes-container .list-group-item {
+  cursor: pointer;
+}
